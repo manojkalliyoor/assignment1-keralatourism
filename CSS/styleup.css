@@ -1,0 +1,32 @@
+.bg{
+    background:url(../img/sunset.jpg);
+    background-size: cover;
+}
+.navbar{
+    width:100%;
+}
+.search{
+    margin-right:100px;
+}
+.loginform{
+    margin-left:100px;
+    position:relative;
+   
+}
+.logo{
+    width:60px;
+    height:35px;
+    float:left;
+}
+.ft{
+    text-align: center;
+    color:white;
+}
+.icon{
+    margin-left:50px;
+    color:white;
+}
+.icon i{
+   width:15px;
+   height:15px;
+} 
